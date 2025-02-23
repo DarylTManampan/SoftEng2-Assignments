@@ -34,3 +34,6 @@ Requirements:
 
     UML Diagram:
 ![SPUMLD]()
+
+Sample Output:
+![SPOP](https://github.com/DarylTManampan/SoftEng2-Assignments/blob/main/statePattern/stateoutputsample.png)
