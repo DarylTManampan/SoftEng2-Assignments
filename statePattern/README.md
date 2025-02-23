@@ -33,7 +33,7 @@ Requirements:
     - Delegate actions like selectItem, insertCoin, dispenseItem, and setOutOfOrder to the current state object through its corresponding methods.
 
     UML Diagram:
-![SPUMLD]()
+![SPUMLD](https://github.com/DarylTManampan/SoftEng2-Assignments/blob/main/statePattern/StateUML.png)
 
 Sample Output:
 ![SPOP](https://github.com/DarylTManampan/SoftEng2-Assignments/blob/main/statePattern/stateoutputsample.png)
