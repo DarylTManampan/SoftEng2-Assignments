@@ -1,2 +1,2 @@
-# StatePattern
+# Software Engineering 2
 Assignment
